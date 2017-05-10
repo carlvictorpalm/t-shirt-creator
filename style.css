@@ -1,0 +1,41 @@
+#formText {
+    float: left;
+    padding-right: 30px;
+}
+
+/* T-SHIRT */
+
+#tShirtF {
+    float: left;
+    width: 330px;
+    height: 370px;
+    padding: 30px;
+    background-image: url("pics/tshirt_front.jpg");
+    background-size: cover;
+}
+
+#fText {
+    margin: auto;
+    padding-top: 155px;
+    padding-left: 46px;
+    width: 100px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#tShirtB {
+    display: inline-block;
+    width: 330px;
+    height: 370px;
+    padding: 30px;
+    background-image: url("pics/tshirt_back.jpg");
+    background-size: cover;
+}
+
+#bText {
+    margin: auto;
+    padding-top: 155px;
+    width: 100px;
+    height: 100px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
